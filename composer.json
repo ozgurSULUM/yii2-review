@@ -1,10 +1,10 @@
 {
-  "name": "ozgurSULUM/yii2-review",
+  "name": "ozgursulum/yii2-review",
   "description": "Yii2 review Module",
   "type": "yii2-extension",
   "authors": [
     {
-      "name": "ozgurSULUM",
+      "name": "ozgursulum",
       "email": "ozgursulum0@gmail.com",
       "role": "Developer"
     }
@@ -18,12 +18,12 @@
   },
   "autoload": {
     "psr-4": {
-      "ozgurSULUM\\review\\": "src"
+      "ozgursulum\\review\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "ozgurSULUM\\review\\tests\\": "tests"
+      "ozgursulum\\review\\tests\\": "tests"
     }
   },
   "repositories": [
