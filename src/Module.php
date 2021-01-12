@@ -1,6 +1,6 @@
 <?php
 
-namespace ozgurSULUM\review;
+namespace ozgursulum\review;
 
 class Module extends \yii\base\Module
 {

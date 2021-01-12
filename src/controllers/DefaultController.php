@@ -1,6 +1,6 @@
 <?php
 
-namespace ozgurSULUM\review\controllers;
+namespace ozgursulum\review\controllers;
 
 class DefaultController extends \yii\web\Controller
 {
