@@ -13,7 +13,7 @@ in the config/main.php file of your app folder do the following configuration in
 
 1- execute migrations in the migrations folder.
 
-2- use "review/default/critics" root path for to open critic entry page. After the entry save the "critic_id" for review entries.
+2- use "review/default/critics" root path for to open critic entry page. After the entry remember the "critic_id" for review entries.
 
 
 ![addcritic2](https://user-images.githubusercontent.com/41192900/104773968-eb4f2980-5786-11eb-9ce9-f492176e5dd4.PNG)
