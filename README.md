@@ -2,6 +2,8 @@
 a module for getting reviews from critics
 
 # INSTALL
+Packagist link: https://packagist.org/packages/ozgursulum/yii2-review
+
 composer require ozgursulum/yii2-review
 
 # POST-INSTALL STEPS
